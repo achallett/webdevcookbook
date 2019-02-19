@@ -56,6 +56,13 @@ IDE
 #### Kubernetes
 - Kubernetes the hard way
 
+#### Notes
+GTMetrix.com
+Fastly
+Dynatrace 
+
+OWASP
+
 
 ### Todos
 
