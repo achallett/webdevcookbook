@@ -50,6 +50,15 @@ IDE
 - https://material-ui.com/
 
 
+Question: 
+React - How do you get the id of the button you clicked?
+
+<button className="flexbutton" onClick={this.handleClick} id="cars">Cars</button>
+
+  handleClick = (e) => {
+    console.log('this is:', e.target.id);
+  }
+
 ### DevOps
 - Docker Compose
 - Portainer
